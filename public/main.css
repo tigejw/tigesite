@@ -1,0 +1,3 @@
+.container{display:grid;grid-gap:10px;padding:0 20%;grid-template:"header header" "sidebar main" "footer footer"/150px 8fr}header{grid-area:header}aside{grid-area:sidebar}main{grid-area:main}footer{grid-area:footer}header{box-sizing:border-box;text-align:center;border:1px solid black}aside{box-sizing:border-box;display:block;border:1px solid black}main{box-sizing:border-box;border:1px solid black;padding-left:10px}.nav-list{list-style-type:none}
+
+/*# sourceMappingURL=main.css.map*/
