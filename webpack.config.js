@@ -1,6 +1,5 @@
 const path = require("path");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
-
 module.exports = {
   // This enables production mode, which minifies the JS and CSS files for fast loading times:
   mode: "production",

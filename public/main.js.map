@@ -1,1 +1,0 @@
-{"version":3,"file":"main.js","mappings":"mBAEAA,SAASC,iBAAiB,mBAAoB,O","sources":["webpack://testing/./src/index.js"],"sourcesContent":["import \"./main.scss\"; \n\ndocument.addEventListener(\"DOMContentLoaded\", () => {\n});"],"names":["document","addEventListener"],"sourceRoot":""}

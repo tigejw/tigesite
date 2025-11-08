@@ -5,5 +5,15 @@ permalink: /media/books/
 ---
 
 <div class="container-books">
-    <p>all the info on books i read or love</p>
+  <p>all the info on books i read or love</p>
+  <br />
+  <div class="bookshelf-container">
+    <ul class="bookshelf-list">
+      {% for book in goodreads_data.books %}
+      <li key="{{ book.title }}" class="bookshelf-book">
+        <img src="{{ book.cover }}" alt="Cover of {{ book.title }}" />
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>

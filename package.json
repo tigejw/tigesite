@@ -19,6 +19,7 @@
     "webpack-cli": "^6.0.1"
   },
   "dependencies": {
+    "csv-parse": "^6.1.0",
     "html-minifier-terser": "^7.2.0"
   }
 }

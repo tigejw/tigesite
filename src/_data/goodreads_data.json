@@ -1,0 +1,5190 @@
+{
+  "books": [
+    {
+      "title": "World War Z: An Oral History of the Zombie War",
+      "author": "Max Brooks",
+      "additionalAuthors": null,
+      "isbn": "0307346609",
+      "myRating": null,
+      "pages": 342,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "157"
+        }
+      ],
+      "readDates": [
+        "2025-10-15",
+        "2025-10-21"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Breakneck: China's Quest to Engineer the Future",
+      "author": "Dan Wang",
+      "additionalAuthors": null,
+      "isbn": "1324106042",
+      "myRating": null,
+      "pages": 275,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "156"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Trading Game: A Confession",
+      "author": "Gary  Stevenson",
+      "additionalAuthors": null,
+      "isbn": "0593727215",
+      "myRating": null,
+      "pages": 352,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "155"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "No Country for Old Men",
+      "author": "Cormac McCarthy",
+      "additionalAuthors": null,
+      "isbn": "0375706674",
+      "myRating": null,
+      "pages": 309,
+      "myReview": "",
+      "exclusiveShelf": "currently-reading",
+      "bookshelvesWithPositions": [
+        {
+          "name": "currently-reading",
+          "position": "9"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "additionalAuthors": null,
+      "isbn": "0307588378",
+      "myRating": 4,
+      "pages": 415,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2025-09-10",
+        "2025-09-17"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "additionalAuthors": null,
+      "isbn": "0446365386",
+      "myRating": null,
+      "pages": 1037,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "154"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "additionalAuthors": null,
+      "isbn": "0060935464",
+      "myRating": null,
+      "pages": 323,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "153"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Lost World (Jurassic Park, #2)",
+      "author": "Michael Crichton",
+      "additionalAuthors": null,
+      "isbn": "0752224417",
+      "myRating": 2,
+      "pages": 448,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2025-09-04",
+        "2025-09-09"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The China Choice: Why America Should Share Power",
+      "author": "Hugh  White",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": null,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "152"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "How to Defend Australia",
+      "author": "Hugh  White",
+      "additionalAuthors": null,
+      "isbn": "1743820976",
+      "myRating": null,
+      "pages": 343,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "151"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Heavy Light: A Journey Through Madness, Mania and Healing",
+      "author": "Horatio Clare",
+      "additionalAuthors": null,
+      "isbn": "1784743526",
+      "myRating": 4,
+      "pages": 368,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "growing",
+          "position": "16"
+        }
+      ],
+      "readDates": [
+        "2024-11-17",
+        "2024-11-29"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The First Fifteen Lives of Harry August",
+      "author": "Claire North",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 417,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "150"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Frankenstein: The 1818 Text",
+      "author": "Mary Wollstonecraft Shelley",
+      "additionalAuthors": "Charlotte  Gordon",
+      "isbn": "0143131842",
+      "myRating": 3,
+      "pages": 260,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2025-08-17",
+        "2025-08-25"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "What We Can Know",
+      "author": "Ian McEwan",
+      "additionalAuthors": null,
+      "isbn": "0593804724",
+      "myRating": null,
+      "pages": 320,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "149"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Second Jungle Book (Jungle Book, #2)",
+      "author": "Rudyard Kipling",
+      "additionalAuthors": null,
+      "isbn": "140694632X",
+      "myRating": 4,
+      "pages": 142,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2025-08-14",
+        "2025-08-17"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Jungle Book (Jungle Book, #1)",
+      "author": "Rudyard Kipling",
+      "additionalAuthors": null,
+      "isbn": "0812504690",
+      "myRating": 4,
+      "pages": 277,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2025-08-12",
+        "2025-08-14"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "additionalAuthors": null,
+      "isbn": "0307265439",
+      "myRating": 5,
+      "pages": 241,
+      "myReview": "narrated tom stechschulte",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "audiobook",
+          "position": "6"
+        }
+      ],
+      "readDates": [
+        "2025-07-10",
+        "2025-07-13"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Miracle of Purun Bhagat (Creative's Classics)",
+      "author": "Rudyard Kipling",
+      "additionalAuthors": null,
+      "isbn": "0886820529",
+      "myRating": 4,
+      "pages": 40,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "In the Rukh (Jungle Book, #2.5)",
+      "author": "Rudyard Kipling",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": 3,
+      "pages": 32,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2025-08-17",
+        "2025-08-17"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Virgin Suicides",
+      "author": "Jeffrey Eugenides",
+      "additionalAuthors": null,
+      "isbn": "0747560595",
+      "myRating": null,
+      "pages": 250,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "148"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Remarkably Bright Creatures",
+      "author": "Shelby Van Pelt",
+      "additionalAuthors": null,
+      "isbn": "0063204150",
+      "myRating": null,
+      "pages": 368,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "147"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Isola",
+      "author": "Allegra Goodman",
+      "additionalAuthors": null,
+      "isbn": "0593730089",
+      "myRating": null,
+      "pages": 346,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "146"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Jurassic Park (Jurassic Park, #1)",
+      "author": "Michael Crichton",
+      "additionalAuthors": null,
+      "isbn": "0307763056",
+      "myRating": 3,
+      "pages": 466,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "sexist",
+          "position": "5"
+        }
+      ],
+      "readDates": [
+        "2025-08-03",
+        "2025-08-06"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Wall",
+      "author": "Marlen Haushofer",
+      "additionalAuthors": "Shaun Whiteside",
+      "isbn": "1573440949",
+      "myRating": 2,
+      "pages": 240,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "next",
+          "position": "1"
+        }
+      ],
+      "readDates": [
+        "2025-07-21",
+        "2025-08-06"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Under the Dome",
+      "author": "Stephen        King",
+      "additionalAuthors": null,
+      "isbn": "1439148503",
+      "myRating": null,
+      "pages": 1074,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "145"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Alone With You in the Ether",
+      "author": "Olivie Blake",
+      "additionalAuthors": null,
+      "isbn": "1250888166",
+      "myRating": null,
+      "pages": 288,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "144"
+        },
+        {
+          "name": "pre2024",
+          "position": "1"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Fools Crow (Contemporary American Fiction)",
+      "author": "James Welch",
+      "additionalAuthors": null,
+      "isbn": "0140089373",
+      "myRating": 4.5,
+      "pages": 400,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "4-5",
+          "position": "1"
+        }
+      ],
+      "readDates": [
+        "2024-04-07",
+        "2024-04-09"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Alas, Babylon (Perennial Classics)",
+      "author": "Pat Frank",
+      "additionalAuthors": "David Brin",
+      "isbn": "0060741872",
+      "myRating": 3,
+      "pages": 323,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "sexist",
+          "position": "4"
+        }
+      ],
+      "readDates": [
+        "2025-07-16",
+        "2025-07-21"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Woman on the Edge of Time",
+      "author": "Marge Piercy",
+      "additionalAuthors": null,
+      "isbn": "0449210820",
+      "myRating": null,
+      "pages": 376,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "143"
+        },
+        {
+          "name": "next",
+          "position": "5"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 304,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "142"
+        },
+        {
+          "name": "next",
+          "position": "4"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Yellow Wallpaper",
+      "author": "Charlotte Perkins Gilman",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 63,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "141"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Oryx and Crake (MaddAddam, #1)",
+      "author": "Margaret Atwood",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 389,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "128"
+        },
+        {
+          "name": "next",
+          "position": "2"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Host (The Host, #1)",
+      "author": "Stephenie Meyer",
+      "additionalAuthors": null,
+      "isbn": "0316068047",
+      "myRating": null,
+      "pages": 619,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "140"
+        },
+        {
+          "name": "next",
+          "position": "3"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "You Are Released",
+      "author": "Joe Hill",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 1,
+      "myReview": "",
+      "exclusiveShelf": "currently-reading",
+      "bookshelvesWithPositions": [
+        {
+          "name": "currently-reading",
+          "position": "8"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Travels with a Donkey in the Cévennes",
+      "author": "Robert Louis Stevenson",
+      "additionalAuthors": null,
+      "isbn": "1843500965",
+      "myRating": 2,
+      "pages": 156,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "sexist",
+          "position": "3"
+        }
+      ],
+      "readDates": [
+        "2025-06-24",
+        "2025-06-26"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "I Have No Mouth & I Must Scream",
+      "author": "Harlan Ellison",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": 3,
+      "pages": 20,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "sexist",
+          "position": "2"
+        }
+      ],
+      "readDates": [
+        "2025-07-18",
+        "2025-07-18"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Godfather (The Godfather, #1)",
+      "author": "Mario Puzo",
+      "additionalAuthors": "Robert Thompson, Peter Bart",
+      "isbn": null,
+      "myRating": 1,
+      "pages": 428,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "sexist",
+          "position": "1"
+        }
+      ],
+      "readDates": [
+        "2025-06-10",
+        "2025-06-15"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Divine Farce",
+      "author": "Michael S.A. Graziano",
+      "additionalAuthors": null,
+      "isbn": "1935248049",
+      "myRating": 4,
+      "pages": 128,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2025-07-16",
+        "2025-07-16"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "A Canticle for Leibowitz (St. Leibowitz, #1)",
+      "author": "Walter M. Miller Jr.",
+      "additionalAuthors": "Mary Doria Russell",
+      "isbn": "0060892994",
+      "myRating": 1,
+      "pages": 334,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "dnf",
+          "position": "1"
+        }
+      ],
+      "readDates": [
+        "2025-07-14",
+        "2025-07-17"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Love Song of Monkey: A Novel",
+      "author": "Michael S.A. Graziano",
+      "additionalAuthors": null,
+      "isbn": "1458784010",
+      "myRating": 2,
+      "pages": 124,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2025-07-18",
+        "2025-07-18"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Wounds: Six Stories from the Border of Hell",
+      "author": "Nathan Ballingrud",
+      "additionalAuthors": null,
+      "isbn": "1534449922",
+      "myRating": null,
+      "pages": 288,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "139"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Divine Comedy: Inferno - Purgatorio - Paradiso",
+      "author": "Dante Alighieri",
+      "additionalAuthors": "Allen Mandelbaum, Eugenio Montale, Peter Armour, Sandro Botticelli",
+      "isbn": "0679433139",
+      "myRating": null,
+      "pages": 798,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "138"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Star Maker",
+      "author": "Olaf Stapledon",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 272,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "137"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "House of Leaves",
+      "author": "Mark Z. Danielewski",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 710,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "136"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "These Memories Do Not Belong to Us",
+      "author": "Yiming Ma",
+      "additionalAuthors": null,
+      "isbn": "0063413485",
+      "myRating": null,
+      "pages": 224,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "135"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "I Have No Mouth & I Must Scream",
+      "author": "Harlan Ellison",
+      "additionalAuthors": "Theodore Sturgeon",
+      "isbn": "0441363954",
+      "myRating": null,
+      "pages": 134,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "134"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Where Are You Going, Where Have You Been? Selected Early Stories",
+      "author": "Joyce Carol Oates",
+      "additionalAuthors": null,
+      "isbn": "0865380775",
+      "myRating": null,
+      "pages": 522,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "133"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Revival",
+      "author": "Stephen        King",
+      "additionalAuthors": null,
+      "isbn": "1476770387",
+      "myRating": null,
+      "pages": 405,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "132"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Hell is the Absence of God",
+      "author": "Ted Chiang",
+      "additionalAuthors": "James Trimarco",
+      "isbn": null,
+      "myRating": null,
+      "pages": 30,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "131"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Replay",
+      "author": "Ken Grimwood",
+      "additionalAuthors": null,
+      "isbn": "068816112X",
+      "myRating": null,
+      "pages": 311,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "130"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Stand",
+      "author": "Stephen        King",
+      "additionalAuthors": "Grover Gardner",
+      "isbn": null,
+      "myRating": null,
+      "pages": null,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "129"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "A Short Stay in Hell",
+      "author": "Steven L. Peck",
+      "additionalAuthors": null,
+      "isbn": "098374842X",
+      "myRating": 4,
+      "pages": 104,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "audiobook",
+          "position": "1"
+        }
+      ],
+      "readDates": [
+        "2025-07-07",
+        "2025-07-08"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Song of Achilles",
+      "author": "Madeline Miller",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": 5,
+      "pages": 408,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "30"
+        },
+        {
+          "name": "get-paperback",
+          "position": "2"
+        },
+        {
+          "name": "audiobook",
+          "position": "5"
+        }
+      ],
+      "readDates": [
+        "2024-04-29",
+        "2024-05-05"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+      "author": "George R.R. Martin",
+      "additionalAuthors": null,
+      "isbn": "0553588486",
+      "myRating": null,
+      "pages": 835,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "audiobook",
+          "position": "4"
+        }
+      ],
+      "readDates": [
+        "2024-08-02",
+        "2024-09-09"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "additionalAuthors": null,
+      "isbn": "0316556343",
+      "myRating": 3,
+      "pages": 393,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "audiobook",
+          "position": "3"
+        }
+      ],
+      "readDates": [
+        "2025-03-28",
+        "2025-04-12"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Contact",
+      "author": "Carl Sagan",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": 4,
+      "pages": 456,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "scifi",
+          "position": "6"
+        },
+        {
+          "name": "audiobook",
+          "position": "2"
+        }
+      ],
+      "readDates": [
+        "2025-05-15",
+        "2025-06-01"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Dog Stars",
+      "author": "Peter Heller",
+      "additionalAuthors": null,
+      "isbn": "0307959945",
+      "myRating": null,
+      "pages": 336,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "127"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Station Eleven",
+      "author": "Emily St. John Mandel",
+      "additionalAuthors": null,
+      "isbn": "0385353308",
+      "myRating": null,
+      "pages": 333,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "126"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Gabriel García Márquez: One Hundred Years of Solitude",
+      "author": "Michael  Wood",
+      "additionalAuthors": null,
+      "isbn": "0521316928",
+      "myRating": null,
+      "pages": 132,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "125"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Blindness",
+      "author": "José Saramago",
+      "additionalAuthors": "Giovanni Pontiero",
+      "isbn": null,
+      "myRating": null,
+      "pages": 326,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "124"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "We",
+      "author": "Yevgeny Zamyatin",
+      "additionalAuthors": "Clarence Brown",
+      "isbn": "0140185852",
+      "myRating": null,
+      "pages": 256,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "123"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 592,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "122"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "A Story of Yesterday",
+      "author": "Sergio Cobo",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 70,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "121"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "East of Eden",
+      "author": "John Steinbeck",
+      "additionalAuthors": null,
+      "isbn": "0142000655",
+      "myRating": null,
+      "pages": 601,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "120"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut Jr.",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 275,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "119"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Jaunt",
+      "author": "Stephen        King",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": 3,
+      "pages": 25,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2025-07-09",
+        "2025-07-09"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Le notti bianche / La cronaca di Pietroburgo",
+      "author": "Fyodor Dostoevsky",
+      "additionalAuthors": "Fëdor Dostoevskij, Serena Prina",
+      "isbn": "8807901870",
+      "myRating": null,
+      "pages": 176,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "45"
+        },
+        {
+          "name": "growing",
+          "position": "10"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Lolita",
+      "author": "Vladimir Nabokov",
+      "additionalAuthors": "Craig Raine",
+      "isbn": null,
+      "myRating": 4,
+      "pages": 368,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "15"
+        }
+      ],
+      "readDates": [
+        "2025-06-28",
+        "2025-06-29"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Nothing to Envy: Ordinary Lives in North Korea",
+      "author": "Barbara Demick",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 338,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "118"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "La Belle Sauvage (The Book of Dust, #1)",
+      "author": "Philip Pullman",
+      "additionalAuthors": null,
+      "isbn": "0375815309",
+      "myRating": 3,
+      "pages": 449,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2025-06-20",
+        "2025-06-24"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Politics On the Edge: A Memoir From Within",
+      "author": "Rory Stewart",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": 5,
+      "pages": 436,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2025-06-04",
+        "2025-06-08"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Orlando",
+      "author": "Virginia Woolf",
+      "additionalAuthors": "Sandra M. Gilbert, Brenda Lyons",
+      "isbn": "0141184272",
+      "myRating": 4,
+      "pages": 336,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2025-01-11",
+        "2025-02-15"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Power of Geography: Ten Maps That Reveal the Future of Our World",
+      "author": "Tim  Marshall",
+      "additionalAuthors": null,
+      "isbn": "1783965371",
+      "myRating": 4,
+      "pages": 360,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-07-26",
+        "2024-08-09"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "One Flew Over the Cuckoo’s Nest",
+      "author": "Ken Kesey",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": 4,
+      "pages": 325,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-12-07",
+        "2024-12-12"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Talking with Serial Killers: The Most Evil People in the World Tell Their Own Stories",
+      "author": "Christopher Berry-Dee",
+      "additionalAuthors": null,
+      "isbn": "1904034535",
+      "myRating": 2,
+      "pages": 349,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-12-26",
+        "2025-01-06"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Boy in the Striped Pajamas",
+      "author": "John Boyne",
+      "additionalAuthors": null,
+      "isbn": "0385751079",
+      "myRating": 3,
+      "pages": 224,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2025-02-01",
+        "2025-02-01"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Silence of the Girls (Women of Troy, #1)",
+      "author": "Pat Barker",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": 2,
+      "pages": 325,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2025-03-28",
+        "2025-04-18"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Why Greatness Cannot Be Planned: The Myth of the Objective",
+      "author": "Kenneth O. Stanley",
+      "additionalAuthors": "Joel Lehman",
+      "isbn": "3319155245",
+      "myRating": null,
+      "pages": 154,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "117"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "2001: A Space Odyssey (Space Odyssey, #1)",
+      "author": "Arthur C. Clarke",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 297,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "116"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Yellow Wall-Paper",
+      "author": "Charlotte Perkins Gilman",
+      "additionalAuthors": "Elaine R. Hedges",
+      "isbn": "1558611584",
+      "myRating": null,
+      "pages": 62,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "115"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "A Dance with Dragons 2: After the Feast (A Song of Ice and Fire, #5, Part 2 of 2)",
+      "author": "George R.R. Martin",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 560,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-11-29",
+        "2024-12-05"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "A Dance with Dragons (A Song of Ice and Fire, #5)",
+      "author": "George R.R. Martin",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 1125,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-11-09",
+        "2024-11-29"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "A Feast for Crows (A Song of Ice and Fire, #4)",
+      "author": "George R.R. Martin",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 1060,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-10-26",
+        "2024-11-08"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "A Storm of Swords 2: Blood and Gold (A Song of Ice and Fire, #3, Part 2 of 2)",
+      "author": "George R.R. Martin",
+      "additionalAuthors": null,
+      "isbn": "0007119550",
+      "myRating": null,
+      "pages": 639,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-10-11",
+        "2024-10-26"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "A Storm of Swords: Steel and Snow (A Song of Ice and Fire, #3.1)",
+      "author": "George R.R. Martin",
+      "additionalAuthors": null,
+      "isbn": "0006479901",
+      "myRating": null,
+      "pages": 663,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-10-02",
+        "2024-10-09"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "A Clash of Kings  (A Song of Ice and Fire, #2)",
+      "author": "George R.R. Martin",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 1009,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-09-13",
+        "2024-09-30"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Doors of Perception",
+      "author": "Aldous Huxley",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 208,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "growing",
+          "position": "11"
+        },
+        {
+          "name": "to-read",
+          "position": "54"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Historic Atlas of the North Pacific Ocean: Maps of Discovery and Scientific Exploration, 1500-2000",
+      "author": "Derek Hayes",
+      "additionalAuthors": null,
+      "isbn": "1570613117",
+      "myRating": null,
+      "pages": 224,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "114"
+        },
+        {
+          "name": "lorna",
+          "position": "10"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Discovering the Deep: A Photographic Atlas of the Seafloor and Ocean Crust",
+      "author": "Jeffrey A. Karson",
+      "additionalAuthors": "Daniel J. Fornari, Deborah S. Kelley, Michael R. Perfit, Timothy M. Shank",
+      "isbn": "052185718X",
+      "myRating": null,
+      "pages": 430,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "113"
+        },
+        {
+          "name": "lorna",
+          "position": "9"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Sensuous Seas: Tales of a Marine Biologist",
+      "author": "Eugene H. Kaplan",
+      "additionalAuthors": null,
+      "isbn": "0691125600",
+      "myRating": null,
+      "pages": 288,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "112"
+        },
+        {
+          "name": "lorna",
+          "position": "8"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Ocean: An Illustrated Atlas",
+      "author": "Sylvia A. Earle",
+      "additionalAuthors": "Linda K. Glover",
+      "isbn": "1426203195",
+      "myRating": null,
+      "pages": 352,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "111"
+        },
+        {
+          "name": "lorna",
+          "position": "7"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "National Geographic Ocean: A Global Odyssey",
+      "author": "Sylvia A. Earle",
+      "additionalAuthors": null,
+      "isbn": "1426221924",
+      "myRating": null,
+      "pages": 512,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "110"
+        },
+        {
+          "name": "lorna",
+          "position": "6"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Art Forms From The Ocean: The Radiolarian Atlas Of 1862",
+      "author": "Olaf Breidbach",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": null,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "109"
+        },
+        {
+          "name": "lorna",
+          "position": "5"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Marine World: A Natural History of Ocean Life (Wild Nature Press)",
+      "author": "Frances Dipper",
+      "additionalAuthors": "Marc Dando",
+      "isbn": "0957394624",
+      "myRating": null,
+      "pages": 544,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "108"
+        },
+        {
+          "name": "lorna",
+          "position": "4"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Between Pacific Tides",
+      "author": "Edward F. Ricketts",
+      "additionalAuthors": "Jack Calvin, Joel W. Hedgpeth, David W. Phillips",
+      "isbn": "0804720681",
+      "myRating": null,
+      "pages": 652,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "107"
+        },
+        {
+          "name": "lorna",
+          "position": "3"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Diversity of Fishes: Biology, Evolution, and Ecology",
+      "author": "Gene Helfman",
+      "additionalAuthors": "Bruce B. Collette, Douglas E. Facey, Brian W. Bowen",
+      "isbn": "1405124946",
+      "myRating": null,
+      "pages": 720,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "106"
+        },
+        {
+          "name": "lorna",
+          "position": "2"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Marine Biology: A Very Short Introduction",
+      "author": "Philip V. Mladenov",
+      "additionalAuthors": null,
+      "isbn": "0199695059",
+      "myRating": null,
+      "pages": 184,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "105"
+        },
+        {
+          "name": "lorna",
+          "position": "1"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Long Walk",
+      "author": "Richard  Bachman",
+      "additionalAuthors": "Stephen        King",
+      "isbn": "0451196716",
+      "myRating": 5,
+      "pages": 370,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "scifi",
+          "position": "1"
+        }
+      ],
+      "readDates": [
+        "2024-02-14",
+        "2024-02-15"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Candide",
+      "author": "Voltaire",
+      "additionalAuthors": "Rockwell Kent, Walter Jerrold, Don Hagen, Sara Gioacchino Corcos",
+      "isbn": "0486266893",
+      "myRating": 4,
+      "pages": 129,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "31"
+        }
+      ],
+      "readDates": [
+        "2024-04-15",
+        "2024-04-15"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Revenge Of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate",
+      "author": "Robert D. Kaplan",
+      "additionalAuthors": null,
+      "isbn": "1400069831",
+      "myRating": null,
+      "pages": 432,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "104"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The World Beneath Their Feet: Mountaineering, Madness, and the Deadly Race to Summit the Himalayas",
+      "author": "Scott Ellsworth",
+      "additionalAuthors": null,
+      "isbn": "0316434868",
+      "myRating": null,
+      "pages": 416,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "103"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Sister: The Extraordinary Story of Kim Yo Jong, The Most Powerful Woman in North Korea",
+      "author": "Sung-Yoon Lee",
+      "additionalAuthors": null,
+      "isbn": "1529073537",
+      "myRating": null,
+      "pages": 304,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "102"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "They Knew: How a Culture of Conspiracy Keeps America Complacent",
+      "author": "Sarah Kendzior",
+      "additionalAuthors": null,
+      "isbn": "1250210720",
+      "myRating": null,
+      "pages": 256,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "101"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Of Ants and Dinosaurs",
+      "author": "Liu Cixin",
+      "additionalAuthors": "Bruno Roubicek",
+      "isbn": null,
+      "myRating": null,
+      "pages": 7,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "28"
+        },
+        {
+          "name": "scifi",
+          "position": "10"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Overstory",
+      "author": "Richard Powers",
+      "additionalAuthors": null,
+      "isbn": "039335668X",
+      "myRating": 3,
+      "pages": 502,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-05-29",
+        "2024-07-11"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Guns, Germs, and Steel: The Fates of Human Societies",
+      "author": "Jared Diamond",
+      "additionalAuthors": null,
+      "isbn": "0739467352",
+      "myRating": null,
+      "pages": 498,
+      "myReview": "",
+      "exclusiveShelf": "currently-reading",
+      "bookshelvesWithPositions": [
+        {
+          "name": "currently-reading",
+          "position": "7"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "I Am Legend",
+      "author": "Richard Matheson",
+      "additionalAuthors": null,
+      "isbn": "0795315635",
+      "myRating": 2,
+      "pages": 101,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-07-15",
+        "2024-07-15"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics (Politics of Place, #1)",
+      "author": "Tim  Marshall",
+      "additionalAuthors": null,
+      "isbn": "1783961414",
+      "myRating": 5,
+      "pages": 256,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "learning-nonfic",
+          "position": "9"
+        }
+      ],
+      "readDates": [
+        "2024-07-08",
+        "2024-07-15"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "additionalAuthors": "Russell Baker, C.M. Woodhouse",
+      "isbn": "0451526341",
+      "myRating": 4,
+      "pages": 141,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "19"
+        }
+      ],
+      "readDates": [
+        "2024-05-26",
+        "2024-05-26"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Handmaid’s Tale (The Handmaid's Tale, #1)",
+      "author": "Margaret Atwood",
+      "additionalAuthors": null,
+      "isbn": "038549081X",
+      "myRating": 4.5,
+      "pages": 311,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "4-5",
+          "position": "6"
+        }
+      ],
+      "readDates": [
+        "2024-05-06",
+        "2024-05-16"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Women of Troy (Women of Troy, #2)",
+      "author": "Pat Barker",
+      "additionalAuthors": null,
+      "isbn": "0385546696",
+      "myRating": null,
+      "pages": 307,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "100"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "All the Names",
+      "author": "José Saramago",
+      "additionalAuthors": "Margaret Jull Costa",
+      "isbn": "0156010593",
+      "myRating": null,
+      "pages": 245,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "99"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Invisible Planets: Contemporary Chinese Science Fiction in Translation",
+      "author": "Ken Liu",
+      "additionalAuthors": null,
+      "isbn": "0765384191",
+      "myRating": null,
+      "pages": 383,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "98"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Pier Falls: And Other Stories",
+      "author": "Mark Haddon",
+      "additionalAuthors": null,
+      "isbn": "0385540752",
+      "myRating": null,
+      "pages": 320,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "97"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Rendezvous with Rama (Rama, #1)",
+      "author": "Arthur C. Clarke",
+      "additionalAuthors": null,
+      "isbn": "1857231589",
+      "myRating": null,
+      "pages": 243,
+      "myReview": "",
+      "exclusiveShelf": "currently-reading",
+      "bookshelvesWithPositions": [
+        {
+          "name": "scifi",
+          "position": "17"
+        },
+        {
+          "name": "reading-list",
+          "position": "6"
+        },
+        {
+          "name": "currently-reading",
+          "position": "6"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Elektra",
+      "author": "Jennifer Saint",
+      "additionalAuthors": null,
+      "isbn": "125077361X",
+      "myRating": null,
+      "pages": 291,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "96"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Great Reclamation",
+      "author": "Rachel Heng",
+      "additionalAuthors": null,
+      "isbn": "059342011X",
+      "myRating": 4.5,
+      "pages": 464,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "4-5",
+          "position": "4"
+        },
+        {
+          "name": "get-paperback",
+          "position": "6"
+        }
+      ],
+      "readDates": [
+        "2024-04-30",
+        "2024-05-01"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Every Version of You",
+      "author": "Grace Chan",
+      "additionalAuthors": null,
+      "isbn": "1922806013",
+      "myRating": 4.5,
+      "pages": 288,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "4-5",
+          "position": "5"
+        },
+        {
+          "name": "get-paperback",
+          "position": "5"
+        }
+      ],
+      "readDates": [
+        "2024-04-06",
+        "2024-04-07"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Bewilderment",
+      "author": "Richard Powers",
+      "additionalAuthors": null,
+      "isbn": "0393881148",
+      "myRating": 5,
+      "pages": 278,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "highlight-physical",
+          "position": "3"
+        },
+        {
+          "name": "get-paperback",
+          "position": "4"
+        }
+      ],
+      "readDates": [
+        "2024-05-03",
+        "2024-05-05"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Piranesi",
+      "author": "Susanna Clarke",
+      "additionalAuthors": null,
+      "isbn": "163557563X",
+      "myRating": 5,
+      "pages": 272,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "scifi",
+          "position": "23"
+        },
+        {
+          "name": "highlight-physical",
+          "position": "2"
+        },
+        {
+          "name": "get-paperback",
+          "position": "3"
+        }
+      ],
+      "readDates": [
+        "2024-03-27",
+        "2024-03-28"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Watership Down (Watership Down, #1)",
+      "author": "Richard  Adams",
+      "additionalAuthors": null,
+      "isbn": "038039586X",
+      "myRating": 5,
+      "pages": 478,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "2"
+        },
+        {
+          "name": "get-paperback",
+          "position": "1"
+        }
+      ],
+      "readDates": [
+        "2024-02-16",
+        "2024-02-29"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "additionalAuthors": null,
+      "isbn": "1501139231",
+      "myRating": 4.5,
+      "pages": 389,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "miscfiction",
+          "position": "4"
+        },
+        {
+          "name": "4-5",
+          "position": "2"
+        }
+      ],
+      "readDates": [
+        "2024-03-19",
+        "2024-03-21"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Still Alive:  Notes from Australia’s Immigration Detention System",
+      "author": "Safdar Ahmed",
+      "additionalAuthors": null,
+      "isbn": "0980593735",
+      "myRating": 4.5,
+      "pages": 234,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "learning-nonfic",
+          "position": "22"
+        },
+        {
+          "name": "4-5",
+          "position": "3"
+        }
+      ],
+      "readDates": [
+        "2024-04-16",
+        "2024-04-16"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Last One at the Party",
+      "author": "Bethany Clift",
+      "additionalAuthors": null,
+      "isbn": "1529332125",
+      "myRating": 1,
+      "pages": 355,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-05-06",
+        "2024-05-06"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Me and Earl and the Dying Girl",
+      "author": "Jesse Andrews",
+      "additionalAuthors": null,
+      "isbn": "1419701762",
+      "myRating": 2,
+      "pages": 295,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-05-05",
+        "2024-05-05"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Jonathan Livingston Seagull",
+      "author": "Richard Bach",
+      "additionalAuthors": "Russell Munson",
+      "isbn": "0743278909",
+      "myRating": 2,
+      "pages": 112,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-05-05",
+        "2024-05-05"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "She Who Became the Sun (The Radiant Emperor, #1)",
+      "author": "Shelley Parker-Chan",
+      "additionalAuthors": null,
+      "isbn": "1250621798",
+      "myRating": null,
+      "pages": 416,
+      "myReview": "",
+      "exclusiveShelf": "currently-reading",
+      "bookshelvesWithPositions": [
+        {
+          "name": "currently-reading",
+          "position": "5"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Sixth Extinction: An Unnatural History",
+      "author": "Elizabeth Kolbert",
+      "additionalAuthors": null,
+      "isbn": "0805092994",
+      "myRating": null,
+      "pages": 336,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "95"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Under a White Sky: The Nature of the Future",
+      "author": "Elizabeth Kolbert",
+      "additionalAuthors": null,
+      "isbn": "0593136276",
+      "myRating": null,
+      "pages": 234,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "94"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Ariadne",
+      "author": "Jennifer Saint",
+      "additionalAuthors": null,
+      "isbn": "125077358X",
+      "myRating": null,
+      "pages": 308,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "93"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Mountains Sing",
+      "author": "Nguyễn Phan Quế Mai",
+      "additionalAuthors": null,
+      "isbn": "161620818X",
+      "myRating": 3.5,
+      "pages": 342,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "3-5",
+          "position": "3"
+        }
+      ],
+      "readDates": [
+        "2024-05-01",
+        "2024-05-02"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Last Checkmate",
+      "author": "Gabriella Saab",
+      "additionalAuthors": null,
+      "isbn": "0063141930",
+      "myRating": null,
+      "pages": 416,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "92"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Clytemnestra",
+      "author": "Costanza Casati",
+      "additionalAuthors": null,
+      "isbn": "1728268230",
+      "myRating": null,
+      "pages": 435,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "91"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Atalanta",
+      "author": "Jennifer Saint",
+      "additionalAuthors": null,
+      "isbn": "1250855578",
+      "myRating": null,
+      "pages": 291,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "90"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Isaac and the Egg",
+      "author": "Bobby  Palmer",
+      "additionalAuthors": null,
+      "isbn": "1472285506",
+      "myRating": null,
+      "pages": 288,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "89"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Our Wives Under the Sea",
+      "author": "Julia Armfield",
+      "additionalAuthors": null,
+      "isbn": "152901722X",
+      "myRating": null,
+      "pages": 240,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "88"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "I Who Have Never Known Men",
+      "author": "Jacqueline Harpman",
+      "additionalAuthors": "Ros Schwartz",
+      "isbn": "0380731819",
+      "myRating": null,
+      "pages": 208,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "87"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Sea of Tranquility",
+      "author": "Emily St. John Mandel",
+      "additionalAuthors": null,
+      "isbn": "0593321448",
+      "myRating": null,
+      "pages": 259,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "86"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Medea",
+      "author": "Christa Wolf",
+      "additionalAuthors": "John Cullen",
+      "isbn": "0385518579",
+      "myRating": null,
+      "pages": 208,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "85"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Darkly Dreaming Dexter (Dexter, #1)",
+      "author": "Jeff Lindsay",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": 1,
+      "pages": 288,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-04-27",
+        "2024-04-27"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",
+      "author": "Arthur Conan Doyle",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 389,
+      "myReview": "",
+      "exclusiveShelf": "currently-reading",
+      "bookshelvesWithPositions": [
+        {
+          "name": "currently-reading",
+          "position": "4"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Beautiful World, Where Are You",
+      "author": "Sally Rooney",
+      "additionalAuthors": null,
+      "isbn": "0571365442",
+      "myRating": 2.5,
+      "pages": 337,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "2-5",
+          "position": "1"
+        }
+      ],
+      "readDates": [
+        "2024-04-23",
+        "2024-04-24"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Robot Dreams (Robot, #0.4)",
+      "author": "Isaac Asimov",
+      "additionalAuthors": "Ralph McQuarrie",
+      "isbn": "0441011837",
+      "myRating": null,
+      "pages": 352,
+      "myReview": "",
+      "exclusiveShelf": "currently-reading",
+      "bookshelvesWithPositions": [
+        {
+          "name": "currently-reading",
+          "position": "3"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "2034: A Novel of the Next World War",
+      "author": "Elliot Ackerman",
+      "additionalAuthors": "James G. Stavridis",
+      "isbn": "1984881256",
+      "myRating": 4,
+      "pages": 320,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-04-21",
+        "2024-04-21"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "I, Robot (Robot, #0.1)",
+      "author": "Isaac Asimov",
+      "additionalAuthors": null,
+      "isbn": "0553803700",
+      "myRating": 3.5,
+      "pages": 224,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "3-5",
+          "position": "2"
+        }
+      ],
+      "readDates": [
+        "2024-04-19",
+        "2024-04-20"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Ball Lightning",
+      "author": "Liu Cixin",
+      "additionalAuthors": "Joel Martinsen",
+      "isbn": "0765394073",
+      "myRating": 3,
+      "pages": 384,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "scifi",
+          "position": "28"
+        }
+      ],
+      "readDates": [
+        "2024-04-19",
+        "2024-04-19"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "When She Woke",
+      "author": "Hillary Jordan",
+      "additionalAuthors": null,
+      "isbn": "1565126297",
+      "myRating": 3.5,
+      "pages": 344,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "3-5",
+          "position": "1"
+        }
+      ],
+      "readDates": [
+        "2024-04-18",
+        "2024-04-19"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Black Star",
+      "author": "Eric Anthony Glover",
+      "additionalAuthors": "Arielle Jovellanos",
+      "isbn": "1419742280",
+      "myRating": 3,
+      "pages": 176,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-04-18",
+        "2024-04-18"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Sign of Four (Sherlock Holmes, #2)",
+      "author": "Arthur Conan Doyle",
+      "additionalAuthors": "Peter Ackroyd",
+      "isbn": null,
+      "myRating": 2,
+      "pages": 129,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-04-17",
+        "2024-04-23"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "A Study in Scarlet (Sherlock Holmes, #1)",
+      "author": "Arthur Conan Doyle",
+      "additionalAuthors": null,
+      "isbn": "1420925539",
+      "myRating": 2,
+      "pages": 123,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-04-17",
+        "2024-04-17"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Artemis Fowl: The Graphic Novel (Artemis Fowl: The Graphic Novels, #1)",
+      "author": "Eoin Colfer",
+      "additionalAuthors": "Andrew Donkin, Giovanni Rigano",
+      "isbn": "0786848812",
+      "myRating": 2,
+      "pages": 128,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-04-16",
+        "2024-04-16"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Authority (Southern Reach, #2)",
+      "author": "Jeff VanderMeer",
+      "additionalAuthors": null,
+      "isbn": "0374104107",
+      "myRating": null,
+      "pages": 368,
+      "myReview": "",
+      "exclusiveShelf": "currently-reading",
+      "bookshelvesWithPositions": [
+        {
+          "name": "currently-reading",
+          "position": "2"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Moonseed (NASA Trilogy, #3)",
+      "author": "Stephen Baxter",
+      "additionalAuthors": null,
+      "isbn": "006105903X",
+      "myRating": 4,
+      "pages": 672,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "scifi",
+          "position": "27"
+        }
+      ],
+      "readDates": [
+        "2024-04-12",
+        "2024-04-14"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Nightfall",
+      "author": "Isaac Asimov",
+      "additionalAuthors": "Robert Silverberg",
+      "isbn": "0553290991",
+      "myRating": null,
+      "pages": 339,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "84"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Mountain",
+      "author": "Liu Cixin",
+      "additionalAuthors": "Holger Nahm, Malice Bathory",
+      "isbn": null,
+      "myRating": null,
+      "pages": 47,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "83"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Of Ants and Dinosaurs",
+      "author": "Liu Cixin",
+      "additionalAuthors": "Holger Nahm",
+      "isbn": null,
+      "myRating": null,
+      "pages": 55,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "82"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Wandering Earth",
+      "author": "Liu Cixin",
+      "additionalAuthors": "Holger Nahm",
+      "isbn": null,
+      "myRating": null,
+      "pages": 45,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "81"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Long Way to a Small, Angry Planet (Wayfarers, #1)",
+      "author": "Becky Chambers",
+      "additionalAuthors": null,
+      "isbn": "1500453307",
+      "myRating": 2,
+      "pages": 518,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-04-10",
+        "2024-04-12"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "additionalAuthors": null,
+      "isbn": "0593135202",
+      "myRating": 2,
+      "pages": 496,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "scifi",
+          "position": "24"
+        },
+        {
+          "name": "reading-list",
+          "position": "7"
+        }
+      ],
+      "readDates": [
+        "2024-04-05",
+        "2024-04-06"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Annihilation (Southern Reach, #1)",
+      "author": "Jeff VanderMeer",
+      "additionalAuthors": null,
+      "isbn": "0374104093",
+      "myRating": 4,
+      "pages": 195,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "scifi",
+          "position": "22"
+        }
+      ],
+      "readDates": [
+        "2024-04-04",
+        "2024-04-05"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Flight of the White Wolf",
+      "author": "Mel Ellis",
+      "additionalAuthors": null,
+      "isbn": "0590420534",
+      "myRating": 2,
+      "pages": 208,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-04-03",
+        "2024-04-04"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Yellow Eyes (Caxton Classics)",
+      "author": "Rutherford G. Montgomery",
+      "additionalAuthors": "Jerome D. Nenninger",
+      "isbn": "0870044176",
+      "myRating": 4,
+      "pages": 358,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-04-03",
+        "2024-04-07"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Great Escape",
+      "author": "Paul Brickhill",
+      "additionalAuthors": null,
+      "isbn": "0393325792",
+      "myRating": 3,
+      "pages": 304,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "10"
+        }
+      ],
+      "readDates": [
+        "2024-03-27",
+        "2024-04-04"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Misery",
+      "author": "Stephen        King",
+      "additionalAuthors": null,
+      "isbn": "0450417395",
+      "myRating": 4,
+      "pages": 370,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-03-22",
+        "2024-03-26"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "One Past Midnight: The Langoliers",
+      "author": "Stephen        King",
+      "additionalAuthors": "Willem Dafoe",
+      "isbn": "0453007449",
+      "myRating": 1,
+      "pages": 9,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [],
+      "readDates": [
+        "2024-03-19",
+        "2024-03-22"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "additionalAuthors": null,
+      "isbn": "0140283331",
+      "myRating": 3,
+      "pages": 182,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "16"
+        },
+        {
+          "name": "reading-list",
+          "position": "4"
+        }
+      ],
+      "readDates": [
+        "2024-03-07",
+        "2024-03-16"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Clan of the Cave Bear (Earth's Children, #1)",
+      "author": "Jean M. Auel",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": 2,
+      "pages": 516,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "miscfiction",
+          "position": "1"
+        },
+        {
+          "name": "reading-list",
+          "position": "3"
+        }
+      ],
+      "readDates": [
+        "2024-03-08",
+        "2024-03-18"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Aztec (Aztec, #1)",
+      "author": "Gary Jennings",
+      "additionalAuthors": null,
+      "isbn": "0765317508",
+      "myRating": null,
+      "pages": 754,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "80"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Aztecs: Lost Civilizations",
+      "author": "Frances F. Berdan",
+      "additionalAuthors": null,
+      "isbn": "1789143608",
+      "myRating": null,
+      "pages": 208,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "79"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "A Philosophy of Walking",
+      "author": "Frédéric Gros",
+      "additionalAuthors": "Clifford Harper, John Howe",
+      "isbn": "1781682704",
+      "myRating": null,
+      "pages": 228,
+      "myReview": "",
+      "exclusiveShelf": "currently-reading",
+      "bookshelvesWithPositions": [
+        {
+          "name": "growing",
+          "position": "7"
+        },
+        {
+          "name": "reading-list",
+          "position": "1"
+        },
+        {
+          "name": "currently-reading",
+          "position": "1"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Thus Spoke Zarathustra",
+      "author": "Friedrich Nietzsche",
+      "additionalAuthors": "Walter Kaufmann, Silvia Cecchini, Domenico Ciampoli",
+      "isbn": null,
+      "myRating": null,
+      "pages": 327,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "78"
+        },
+        {
+          "name": "growing",
+          "position": "24"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Philosophies of India",
+      "author": "Heinrich Robert Zimmer",
+      "additionalAuthors": "Joseph Campbell",
+      "isbn": "0691017581",
+      "myRating": null,
+      "pages": 708,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "77"
+        },
+        {
+          "name": "growing",
+          "position": "23"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "21"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Practice of the Wild",
+      "author": "Gary Snyder",
+      "additionalAuthors": null,
+      "isbn": "0865474540",
+      "myRating": null,
+      "pages": 190,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "75"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "20"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Turtle Island",
+      "author": "Gary Snyder",
+      "additionalAuthors": null,
+      "isbn": "0811205460",
+      "myRating": null,
+      "pages": 112,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "76"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Dharma Bums",
+      "author": "Jack Kerouac",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 244,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "72"
+        },
+        {
+          "name": "growing",
+          "position": "20"
+        },
+        {
+          "name": "reading-list",
+          "position": "11"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "On the Road",
+      "author": "Jack Kerouac",
+      "additionalAuthors": null,
+      "isbn": "0140042598",
+      "myRating": null,
+      "pages": 307,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "73"
+        },
+        {
+          "name": "growing",
+          "position": "21"
+        },
+        {
+          "name": "reading-list",
+          "position": "10"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Howl and Other Poems",
+      "author": "Allen Ginsberg",
+      "additionalAuthors": "William Carlos Williams",
+      "isbn": "0872863107",
+      "myRating": null,
+      "pages": 56,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "74"
+        },
+        {
+          "name": "growing",
+          "position": "22"
+        },
+        {
+          "name": "poetry",
+          "position": "5"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Nine Billion Names of God",
+      "author": "Arthur C. Clarke",
+      "additionalAuthors": null,
+      "isbn": "0451147553",
+      "myRating": null,
+      "pages": 240,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "34"
+        },
+        {
+          "name": "scifi",
+          "position": "7"
+        },
+        {
+          "name": "reading-list",
+          "position": "9"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Lathe of Heaven",
+      "author": "Ursula K. Le Guin",
+      "additionalAuthors": null,
+      "isbn": "0060512741",
+      "myRating": null,
+      "pages": 176,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "41"
+        },
+        {
+          "name": "scifi",
+          "position": "4"
+        },
+        {
+          "name": "reading-list",
+          "position": "8"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Endurance: Shackleton's Incredible Voyage",
+      "author": "Alfred Lansing",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 282,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "3"
+        },
+        {
+          "name": "classics",
+          "position": "22"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "7"
+        },
+        {
+          "name": "reading-list",
+          "position": "5"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "White Fang",
+      "author": "Jack London",
+      "additionalAuthors": "K.A. Applegate",
+      "isbn": null,
+      "myRating": null,
+      "pages": 252,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "12"
+        },
+        {
+          "name": "classics",
+          "position": "14"
+        },
+        {
+          "name": "reading-list",
+          "position": "2"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Nod",
+      "author": "Adrian   Barnes",
+      "additionalAuthors": null,
+      "isbn": "0956687687",
+      "myRating": null,
+      "pages": 206,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "71"
+        },
+        {
+          "name": "scifi",
+          "position": "26"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Boy on the Bridge (The Girl With All the Gifts, #2)",
+      "author": "M.R. Carey",
+      "additionalAuthors": null,
+      "isbn": "0316300330",
+      "myRating": null,
+      "pages": 400,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "70"
+        },
+        {
+          "name": "scifi",
+          "position": "25"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "How Music Works",
+      "author": "David   Byrne",
+      "additionalAuthors": null,
+      "isbn": "1936365537",
+      "myRating": null,
+      "pages": 345,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "69"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "19"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Living My Life",
+      "author": "Emma Goldman",
+      "additionalAuthors": "Miriam Brody",
+      "isbn": "0142437859",
+      "myRating": null,
+      "pages": 672,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "68"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "18"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Losing Eden: Why Our Minds Need the Wild",
+      "author": "Lucy   Jones",
+      "additionalAuthors": null,
+      "isbn": "0241425158",
+      "myRating": null,
+      "pages": 256,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "67"
+        },
+        {
+          "name": "growing",
+          "position": "19"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "17"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Varieties of Spiritual Experience: 21st Century Research and Perspectives",
+      "author": "David B Yaden",
+      "additionalAuthors": "Andrew B. Newberg",
+      "isbn": "019066567X",
+      "myRating": null,
+      "pages": 440,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "66"
+        },
+        {
+          "name": "growing",
+          "position": "18"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "16"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Denial of Death",
+      "author": "Ernest Becker",
+      "additionalAuthors": "Sam Keen",
+      "isbn": null,
+      "myRating": null,
+      "pages": 336,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "65"
+        },
+        {
+          "name": "growing",
+          "position": "17"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "15"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Skeleton Crew",
+      "author": "Stephen        King",
+      "additionalAuthors": null,
+      "isbn": "0751504386",
+      "myRating": null,
+      "pages": 612,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "horror",
+          "position": "4"
+        },
+        {
+          "name": "to-read",
+          "position": "64"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Who Goes There?",
+      "author": "John W. Campbell Jr.",
+      "additionalAuthors": "William F. Nolan",
+      "isbn": "0982332203",
+      "myRating": null,
+      "pages": 161,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "62"
+        },
+        {
+          "name": "classics",
+          "position": "28"
+        },
+        {
+          "name": "horror",
+          "position": "3"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Idiot",
+      "author": "Fyodor Dostoevsky",
+      "additionalAuthors": "Anna Brailovsky, Joseph Frank, Constance Garnett",
+      "isbn": "0679642420",
+      "myRating": null,
+      "pages": 667,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "63"
+        },
+        {
+          "name": "classics",
+          "position": "29"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Stranger in the Woods: The Extraordinary Story of the Last True Hermit",
+      "author": "Michael Finkel",
+      "additionalAuthors": "Mark Bramhall",
+      "isbn": "1101924926",
+      "myRating": null,
+      "pages": 5,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "61"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "14"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Unmasking Autism: Discovering the New Faces of Neurodiversity",
+      "author": "Devon  Price",
+      "additionalAuthors": null,
+      "isbn": "0593235231",
+      "myRating": null,
+      "pages": 304,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "60"
+        },
+        {
+          "name": "growing",
+          "position": "15"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "additionalAuthors": null,
+      "isbn": "0553380168",
+      "myRating": null,
+      "pages": 226,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "59"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "13"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Being and Time",
+      "author": "Martin Heidegger",
+      "additionalAuthors": null,
+      "isbn": "0060638508",
+      "myRating": null,
+      "pages": 589,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "58"
+        },
+        {
+          "name": "classics",
+          "position": "27"
+        },
+        {
+          "name": "growing",
+          "position": "14"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Consistency Formula",
+      "author": "Suzi Sung",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 93,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "growing",
+          "position": "13"
+        },
+        {
+          "name": "to-read",
+          "position": "57"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Breath: The New Science of a Lost Art",
+      "author": "James Nestor",
+      "additionalAuthors": null,
+      "isbn": "0735213615",
+      "myRating": null,
+      "pages": 280,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "56"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "12"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Being Mortal: Medicine and What Matters in the End",
+      "author": "Atul Gawande",
+      "additionalAuthors": null,
+      "isbn": "0805095152",
+      "myRating": null,
+      "pages": 282,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "55"
+        },
+        {
+          "name": "growing",
+          "position": "12"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Dead Poets Society",
+      "author": "N.H. Kleinbaum",
+      "additionalAuthors": "Tom Schulman",
+      "isbn": "0553282980",
+      "myRating": null,
+      "pages": 166,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "26"
+        },
+        {
+          "name": "to-read",
+          "position": "53"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Gender Trouble: Feminism and the Subversion of Identity",
+      "author": "Judith Butler",
+      "additionalAuthors": null,
+      "isbn": "0415389550",
+      "myRating": null,
+      "pages": 236,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "52"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "11"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Earthlings: Imaginative Encounters with the Natural World",
+      "author": "Adrian Parr",
+      "additionalAuthors": null,
+      "isbn": "0231556020",
+      "myRating": null,
+      "pages": 215,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "51"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "10"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Utopia",
+      "author": "Thomas More",
+      "additionalAuthors": "Paul  Turner",
+      "isbn": "0140449108",
+      "myRating": null,
+      "pages": 113,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "50"
+        },
+        {
+          "name": "classics",
+          "position": "25"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "If We Were Villains",
+      "author": "M.L. Rio",
+      "additionalAuthors": null,
+      "isbn": "125009528X",
+      "myRating": null,
+      "pages": 354,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "49"
+        },
+        {
+          "name": "miscfiction",
+          "position": "3"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "additionalAuthors": "Harold S. Kushner, William J. Winslade, Isle Lasch",
+      "isbn": "080701429X",
+      "myRating": null,
+      "pages": 165,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "48"
+        },
+        {
+          "name": "classics",
+          "position": "24"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Princess Bride",
+      "author": "William Goldman",
+      "additionalAuthors": null,
+      "isbn": "0345418263",
+      "myRating": null,
+      "pages": 429,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "23"
+        },
+        {
+          "name": "to-read",
+          "position": "47"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail",
+      "author": "Ray Dalio",
+      "additionalAuthors": null,
+      "isbn": "1982160276",
+      "myRating": null,
+      "pages": 576,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "learning-nonfic",
+          "position": "8"
+        },
+        {
+          "name": "to-read",
+          "position": "46"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Lettere a un giovane poeta/Lettere a una giovane signora/Su Dio",
+      "author": "Rainer Maria Rilke",
+      "additionalAuthors": "Leone Traverso",
+      "isbn": "8845904415",
+      "myRating": null,
+      "pages": 141,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "44"
+        },
+        {
+          "name": "poetry",
+          "position": "4"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Of Walking in Ice: Munich-Paris, 11/23 to 12/14, 1974",
+      "author": "Werner Herzog",
+      "additionalAuthors": null,
+      "isbn": "0979612101",
+      "myRating": null,
+      "pages": 68,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "growing",
+          "position": "2"
+        },
+        {
+          "name": "to-read",
+          "position": "43"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "This Is How You Lose the Time War",
+      "author": "Amal El-Mohtar",
+      "additionalAuthors": "Max Gladstone",
+      "isbn": null,
+      "myRating": null,
+      "pages": 209,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "2"
+        },
+        {
+          "name": "scifi",
+          "position": "21"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Miracle in the Andes: 72 Days on the Mountain and My Long Trek Home",
+      "author": "Nando Parrado",
+      "additionalAuthors": "Vince Rause",
+      "isbn": null,
+      "myRating": null,
+      "pages": 304,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "4"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "6"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Four Past Midnight: Featuring \"The Langoliers\"",
+      "author": "Stephen        King",
+      "additionalAuthors": null,
+      "isbn": "0451185978",
+      "myRating": null,
+      "pages": 761,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "horror",
+          "position": "2"
+        },
+        {
+          "name": "to-read",
+          "position": "42"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Night Shift",
+      "author": "Stephen        King",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 409,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "5"
+        },
+        {
+          "name": "horror",
+          "position": "1"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "How Do You Live?",
+      "author": "Genzaburo Yoshino",
+      "additionalAuthors": "Neil Gaiman, Bruno Navasky",
+      "isbn": "1616209771",
+      "myRating": null,
+      "pages": 288,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "6"
+        },
+        {
+          "name": "growing",
+          "position": "9"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Plague Dogs",
+      "author": "Richard  Adams",
+      "additionalAuthors": null,
+      "isbn": "0345494024",
+      "myRating": null,
+      "pages": 390,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "7"
+        },
+        {
+          "name": "classics",
+          "position": "21"
+        },
+        {
+          "name": "miscfiction",
+          "position": "2"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Tales from Watership Down  (Watership Down, #2)",
+      "author": "Richard  Adams",
+      "additionalAuthors": null,
+      "isbn": "0380729342",
+      "myRating": null,
+      "pages": 335,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "8"
+        },
+        {
+          "name": "classics",
+          "position": "20"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "additionalAuthors": "Thomas Pynchon",
+      "isbn": "0452284236",
+      "myRating": null,
+      "pages": 368,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "9"
+        },
+        {
+          "name": "classics",
+          "position": "18"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "additionalAuthors": "Richard Howard",
+      "isbn": "0152023984",
+      "myRating": null,
+      "pages": 96,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "10"
+        },
+        {
+          "name": "classics",
+          "position": "17"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Lord Jim",
+      "author": "Joseph Conrad",
+      "additionalAuthors": "Linda Dryden, Cathy J. Schlund-Vials, Rosa Poveda Valiente",
+      "isbn": "1551111721",
+      "myRating": null,
+      "pages": 455,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "13"
+        },
+        {
+          "name": "classics",
+          "position": "13"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "A Portrait of the Artist as a Young Man",
+      "author": "James Joyce",
+      "additionalAuthors": "Seamus Deane",
+      "isbn": "0142437344",
+      "myRating": null,
+      "pages": 329,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "14"
+        },
+        {
+          "name": "growing",
+          "position": "8"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Myth of Sisyphus",
+      "author": "Albert Camus",
+      "additionalAuthors": "Justin O'Brien",
+      "isbn": "0141182008",
+      "myRating": null,
+      "pages": 192,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "15"
+        },
+        {
+          "name": "growing",
+          "position": "6"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "A Clockwork Orange",
+      "author": "Anthony Burgess",
+      "additionalAuthors": null,
+      "isbn": "0393341763",
+      "myRating": null,
+      "pages": 240,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "1"
+        },
+        {
+          "name": "classics",
+          "position": "12"
+        },
+        {
+          "name": "scifi",
+          "position": "20"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Visitants",
+      "author": "Randolph Stow",
+      "additionalAuthors": null,
+      "isbn": "070223365X",
+      "myRating": null,
+      "pages": null,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "16"
+        },
+        {
+          "name": "scifi",
+          "position": "19"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Outsiders",
+      "author": "S.E. Hinton",
+      "additionalAuthors": null,
+      "isbn": "0670532576",
+      "myRating": null,
+      "pages": 208,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "17"
+        },
+        {
+          "name": "classics",
+          "position": "11"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Synners",
+      "author": "Pat Cadigan",
+      "additionalAuthors": "Neil Gaiman",
+      "isbn": "1568581858",
+      "myRating": null,
+      "pages": 435,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "18"
+        },
+        {
+          "name": "scifi",
+          "position": "18"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Soviet Chess Primer (Chess Classics)",
+      "author": "Ilya Maizelis",
+      "additionalAuthors": "Mark Dvoretsky, Emanuel Lasker",
+      "isbn": "190798299X",
+      "myRating": null,
+      "pages": 400,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "19"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "5"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Island of Dr. Moreau",
+      "author": "H.G. Wells",
+      "additionalAuthors": "Alan Lightman",
+      "isbn": "0553214322",
+      "myRating": null,
+      "pages": 160,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "20"
+        },
+        {
+          "name": "scifi",
+          "position": "16"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Invasion of the Body Snatchers",
+      "author": "Jack Finney",
+      "additionalAuthors": null,
+      "isbn": "0684852586",
+      "myRating": null,
+      "pages": 224,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "21"
+        },
+        {
+          "name": "scifi",
+          "position": "15"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Nine Lives: In Search of the Sacred in Modern India",
+      "author": "William Dalrymple",
+      "additionalAuthors": null,
+      "isbn": "1408801531",
+      "myRating": null,
+      "pages": 284,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "22"
+        },
+        {
+          "name": "growing",
+          "position": "5"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Trafalgar",
+      "author": "Angélica Gorodischer",
+      "additionalAuthors": "Amalia Gladhart",
+      "isbn": "1618730320",
+      "myRating": null,
+      "pages": 183,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "23"
+        },
+        {
+          "name": "scifi",
+          "position": "14"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Warm Worlds and Otherwise",
+      "author": "James Tiptree Jr.",
+      "additionalAuthors": "Robert Silverberg",
+      "isbn": "0345280229",
+      "myRating": null,
+      "pages": 222,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "24"
+        },
+        {
+          "name": "scifi",
+          "position": "13"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Grass (Arbai, #1)",
+      "author": "Sheri S. Tepper",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 544,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "25"
+        },
+        {
+          "name": "scifi",
+          "position": "12"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Immersive Enclosure: Virtual Reality in Japan",
+      "author": "Paul Roquet",
+      "additionalAuthors": null,
+      "isbn": "0231205341",
+      "myRating": null,
+      "pages": 264,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "26"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "4"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Secret of Life",
+      "author": "Paul McAuley",
+      "additionalAuthors": null,
+      "isbn": "076530080X",
+      "myRating": null,
+      "pages": 413,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "27"
+        },
+        {
+          "name": "scifi",
+          "position": "11"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Word for World Is Forest",
+      "author": "Ursula K. Le Guin",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 160,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "29"
+        },
+        {
+          "name": "scifi",
+          "position": "9"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power",
+      "author": "Shoshana Zuboff",
+      "additionalAuthors": null,
+      "isbn": "1610395697",
+      "myRating": null,
+      "pages": 691,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "30"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "3"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Chrysalids",
+      "author": "John Wyndham",
+      "additionalAuthors": null,
+      "isbn": null,
+      "myRating": null,
+      "pages": 200,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "31"
+        },
+        {
+          "name": "scifi",
+          "position": "8"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Different: Escaping the Competitive Herd",
+      "author": "Youngme Moon",
+      "additionalAuthors": null,
+      "isbn": "0307460851",
+      "myRating": null,
+      "pages": 288,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "36"
+        },
+        {
+          "name": "growing",
+          "position": "4"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Art and Fear",
+      "author": "David Bayles",
+      "additionalAuthors": "Ted Orland",
+      "isbn": "0961454733",
+      "myRating": null,
+      "pages": 122,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "35"
+        },
+        {
+          "name": "growing",
+          "position": "3"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Getting Lost",
+      "author": "Annie Ernaux",
+      "additionalAuthors": "Alison L. Strayer",
+      "isbn": "1644212196",
+      "myRating": null,
+      "pages": 240,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "32"
+        },
+        {
+          "name": "growing",
+          "position": "1"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Perfecting Sound Forever: An Aural History of Recorded Music",
+      "author": "Greg Milner",
+      "additionalAuthors": null,
+      "isbn": "0571211658",
+      "myRating": null,
+      "pages": 416,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "33"
+        },
+        {
+          "name": "learning-nonfic",
+          "position": "2"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Sappho the Art of Loving Women Poetry of Sappho",
+      "author": "J.F. Smith",
+      "additionalAuthors": null,
+      "isbn": "0877542554",
+      "myRating": null,
+      "pages": 160,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "37"
+        },
+        {
+          "name": "poetry",
+          "position": "3"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Jaguar",
+      "author": "Sarah Holland-Batt",
+      "additionalAuthors": null,
+      "isbn": "0702265500",
+      "myRating": null,
+      "pages": 144,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "38"
+        },
+        {
+          "name": "gift",
+          "position": "1"
+        },
+        {
+          "name": "poetry",
+          "position": "2"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Everything You Ever Wanted",
+      "author": "Luiza Sauma",
+      "additionalAuthors": null,
+      "isbn": "0241363551",
+      "myRating": null,
+      "pages": 272,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "39"
+        },
+        {
+          "name": "scifi",
+          "position": "5"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Bluets",
+      "author": "Maggie Nelson",
+      "additionalAuthors": null,
+      "isbn": "1933517409",
+      "myRating": null,
+      "pages": 112,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "40"
+        },
+        {
+          "name": "poetry",
+          "position": "1"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "20000 Leagues Under the Sea",
+      "author": "Jules Verne",
+      "additionalAuthors": null,
+      "isbn": "0679602534",
+      "myRating": 4,
+      "pages": 406,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "9"
+        }
+      ],
+      "readDates": [
+        "2023-12-16",
+        "2024-01-01"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Time Machine",
+      "author": "H.G. Wells",
+      "additionalAuthors": "Greg Bear, Carlo Pagetti",
+      "isbn": null,
+      "myRating": 3,
+      "pages": 118,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "scifi",
+          "position": "3"
+        }
+      ],
+      "readDates": [
+        "2024-01-02",
+        "2024-01-03"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Curious Case of Benjamin Button",
+      "author": "F. Scott Fitzgerald",
+      "additionalAuthors": "Calef Brown",
+      "isbn": "1416556052",
+      "myRating": 3,
+      "pages": 56,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "8"
+        }
+      ],
+      "readDates": [
+        "2024-01-03",
+        "2024-01-03"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Invisible Man",
+      "author": "H.G. Wells",
+      "additionalAuthors": "Scott Westerfeld",
+      "isbn": "0451528522",
+      "myRating": 3,
+      "pages": 192,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "scifi",
+          "position": "2"
+        }
+      ],
+      "readDates": [
+        "2024-01-09",
+        "2024-01-10"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Mysterious Island (Captain Nemo, #3)",
+      "author": "Jules Verne",
+      "additionalAuthors": "Caleb Carr, Jordan Stump, Sestilio Montanelli",
+      "isbn": "0812972120",
+      "myRating": 3,
+      "pages": 723,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "7"
+        }
+      ],
+      "readDates": [
+        "2024-01-04",
+        "2024-01-11"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "additionalAuthors": "Virginia Woolf",
+      "isbn": null,
+      "myRating": 2,
+      "pages": 320,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "6"
+        }
+      ],
+      "readDates": [
+        "2024-01-06",
+        "2024-01-13"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Call of the Wild",
+      "author": "Jack London",
+      "additionalAuthors": "Avi",
+      "isbn": null,
+      "myRating": 4,
+      "pages": 172,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "5"
+        }
+      ],
+      "readDates": [
+        "2024-01-15",
+        "2024-01-15"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Outsider",
+      "author": "Albert Camus",
+      "additionalAuthors": "Sandra  Smith",
+      "isbn": "0141198060",
+      "myRating": 4,
+      "pages": 111,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "4"
+        }
+      ],
+      "readDates": [
+        "2024-01-16",
+        "2024-01-16"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "The Sea Wolf",
+      "author": "Jack London",
+      "additionalAuthors": null,
+      "isbn": "1598184318",
+      "myRating": 1,
+      "pages": 425,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "classics",
+          "position": "3"
+        }
+      ],
+      "readDates": [
+        "2024-01-16",
+        "2024-01-20"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Alive: The Story of the Andes Survivors",
+      "author": "Piers Paul Read",
+      "additionalAuthors": null,
+      "isbn": "038000321X",
+      "myRating": 4,
+      "pages": 318,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "learning-nonfic",
+          "position": "1"
+        }
+      ],
+      "readDates": [
+        "2024-01-25",
+        "2024-01-26"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Moby-Dick or, The Whale",
+      "author": "Herman Melville",
+      "additionalAuthors": "Andrew Delbanco, Tom Quirk",
+      "isbn": "0142437247",
+      "myRating": 3,
+      "pages": 720,
+      "myReview": "",
+      "exclusiveShelf": "read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "highlight-physical",
+          "position": "1"
+        },
+        {
+          "name": "classics",
+          "position": "1"
+        }
+      ],
+      "readDates": [
+        "2024-02-21",
+        "2024-03-04"
+      ],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "additionalAuthors": null,
+      "isbn": "0060929871",
+      "myRating": null,
+      "pages": 268,
+      "myReview": "",
+      "exclusiveShelf": "to-read",
+      "bookshelvesWithPositions": [
+        {
+          "name": "to-read",
+          "position": "11"
+        }
+      ],
+      "readDates": [],
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg"
+    }
+  ]
+}
