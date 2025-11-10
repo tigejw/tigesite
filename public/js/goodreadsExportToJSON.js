@@ -1,7 +1,7 @@
 //this file takes enhanced goodreads export cvs from
 //https://github.com/kevinsawicki/goodreads-export
 //and converts them to a formatted json file
-//place goodreads_library_export.csv in src/_data/ and run `node src/js/goodreadsCVStoJSON.js`
+//place goodreads_library_export.csv in src/_data/ and run `node src/js/goodreadsExportToJSON.js`
 //to update goodreads_data.json
 
 //need to add covers? find a book api with isbns???
@@ -11,20 +11,32 @@
 
 const fs = require("fs");
 const csv = require("csv-parse/sync");
-
+const { fetchBookCovers } = require("./coverFetch.js");
 const booksCSV = fs.readFileSync(
   "./src/_data/goodreads_library_export.csv",
   "utf8"
 );
 
+function formatYMDToDMY(dateStr) {
+  if (!dateStr) return dateStr;
+  const m = dateStr.trim().match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  return m ? `${m[3]}.${m[2]}.${m[1]}` : dateStr.trim();
+}
+
 const records = csv.parse(booksCSV, {
   columns: true,
   skip_empty_lines: true,
 });
+
 const books = records.map((record) => {
   return {
+    bookID: record["Book Id"],
     title: record.Title,
     author: record.Author,
+    originalPublicationYear:
+      Number(record["Original Publication Year"]) ||
+      Number(record["Year Published"]) ||
+      null,
     additionalAuthors: record["Additional Authors"] || null,
     //missing some isbns, could be issue if using to search for thumbnails?
     isbn: record.ISBN.replace('="', "").replace('"', "") || null,
@@ -45,11 +57,14 @@ const books = records.map((record) => {
           })
       : [],
     readDates: record.read_dates
-      ? record.read_dates.split(",").map((s) => s.trim())
+      ? record.read_dates
+          .split(",")
+          .map((s) => s.trim())
+          .map(formatYMDToDMY)
       : [],
     //20000 leagues cover
-    cover:
-      "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg",
+    // cover:
+    //   "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg",
   };
 });
 
@@ -65,11 +80,21 @@ books.forEach((book) => {
   }
 });
 
-const booksData = {
-  books: books,
-};
+async function processBooks() {
+  //filters only read list - change if wanting to do something with to-read
+  const readBooks = books.filter((book) => book.exclusiveShelf === "read");
 
-fs.writeFileSync(
-  "./src/_data/goodreads_data.json",
-  JSON.stringify(booksData, null, 2)
-);
+  //api call for covers
+  const readBooksWithCovers =  await fetchBookCovers(readBooks);
+
+  const booksData = {
+    books: readBooksWithCovers,
+  };
+
+  fs.writeFileSync(
+    "./src/_data/goodreads_data.json",
+    JSON.stringify(booksData, null, 2)
+  );
+}
+
+processBooks(books)

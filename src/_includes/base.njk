@@ -8,13 +8,13 @@
     <link rel="stylesheet" href="/main.css" />
     <script src="/main.js"></script>
   </head>
-  <body class="{{ bodyClass }}">
+  <body>
     <div class="container">
-      {% include "header.njk" %} {% include "sidebar.njk" %}
+      {% include "header.njk" %} {% include "leftSidebar.njk" %}{% include "rightSidebar.njk" %}
       <main>
         {{ content | safe }}
       </main>
     </div>
-    <footer>Footer</footer>
+    {# <footer>Footer</footer> #}
   </body>
 </html>

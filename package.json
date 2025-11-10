@@ -11,6 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
+    "axios": "^1.13.2",
+    "cheerio": "^1.1.2",
     "css-loader": "^7.1.2",
     "mini-css-extract-plugin": "^2.9.4",
     "sass": "^1.93.3",

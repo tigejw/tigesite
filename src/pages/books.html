@@ -11,7 +11,15 @@ permalink: /media/books/
     <ul class="bookshelf-list">
       {% for book in goodreads_data.books %}
       <li key="{{ book.title }}" class="bookshelf-book">
-        <img src="{{ book.cover }}" alt="Cover of {{ book.title }}" />
+        <img class="bookshelf-book-cover" src="{{ book.cover }}" alt="Cover of {{ book.title }}" />
+        <div class="bookshelf-book-title-rating">
+          <p class="bookshelf-book-title"><strong>{{ book.title }}</strong></p>
+          <p class="bookshelf-book-rating">Rating: {{ book.myRating }} / 5</p>
+        </div>
+        <div class="bookshelf-book-author-readdate">
+          <p class="bookshelf-book-author">  {{ book.author }}{% if book.additionalAuthors %} ({{ book.additionalAuthors }}){% endif %}</p>
+          <p class="bookshelf-book-read-date">{{book.readDates[0]}}-{{book.readDates[1]}}</p>
+        </div>
       </li>
       {% endfor %}
     </ul>
