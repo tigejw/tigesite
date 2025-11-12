@@ -1,0 +1,48 @@
+---
+layout: media.njk
+title: books
+permalink: /media/books/
+---
+
+<div class="container-books">
+  <p>all the info on books i read or love</p>
+  <br />
+  <div class="bookshelf-container">
+    <div class="bookshelf-sort-controls">
+      <button id="sort-rating-asc">rating n</button>
+      <button id="sort-rating-desc">rating u</button>
+      <button id="sort-date-asc">date read n</button>
+      <button id="sort-date-desc">date read u</button>
+    </div>
+    <ul class="bookshelf-list" id="bookshelf-list">
+      {% for book in goodreads_data.books %}
+      <li key="{{ book.title }}" class="bookshelf-book"
+      
+      {# edit booksFormatting to set defaults #}
+      
+      data-rating="{{ book.myRating| default(0)  }}"
+      data-date="{{ book.readDates[1] | default('')}}"
+      >
+        <img
+          class="bookshelf-book-cover"
+          src="{{ book.cover }}"
+          alt="Cover of {{ book.title }}"
+        />
+        <div class="bookshelf-book-title-rating">
+          <p class="bookshelf-book-title"><strong>{{ book.title }}</strong></p>
+          <p class="bookshelf-book-rating">Rating: {{ book.myRating }} / 5</p>
+        </div>
+        <div class="bookshelf-book-author-readdate">
+          <p class="bookshelf-book-author">
+            {{ book.author }}{% if book.additionalAuthors %} ({{
+            book.additionalAuthors }}){% endif %}
+          </p>
+          <p class="bookshelf-book-read-date">
+            {{book.readDates[0]}}-{{book.readDates[1]}}
+          </p>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
