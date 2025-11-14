@@ -16,29 +16,37 @@ permalink: /media/books/
     </div>
     <ul class="bookshelf-list" id="bookshelf-list">
       {% for book in goodreads_data.books %}
-      <li key="{{ book.title }}" class="bookshelf-book"
-      
-      {# edit booksFormatting to set defaults #}
-      
-      data-rating="{{ book.myRating| default(0)  }}"
-      data-date="{{ book.readDates[1] | default('')}}"
+      <li
+        key="{{ book.title }}"
+        class="bookshelf-book"
+        {#
+        edit
+        booksFormatting
+        to
+        set
+        defaults
+        #}
+        data-rating="{{ book.myRating| default(0)  }}"
+        data-date="{{ book.readDates[1] | default('')}}"
       >
         <img
           class="bookshelf-book-cover"
           src="{{ book.cover }}"
           alt="Cover of {{ book.title }}"
         />
-        <div class="bookshelf-book-title-rating">
-          <p class="bookshelf-book-title"><strong>{{ book.title }}</strong></p>
-          <p class="bookshelf-book-rating">Rating: {{ book.myRating }} / 5</p>
-        </div>
-        <div class="bookshelf-book-author-readdate">
-          <p class="bookshelf-book-author">
-            {{ book.author }}{% if book.additionalAuthors %} ({{
-            book.additionalAuthors }}){% endif %}
+
+        <div class="bookshelf-book-info">
+          <p class="bookshelf-book-title">
+            <strong>{{ book.title }}</strong>
           </p>
+          <p class="bookshelf-book-author">
+            by {{ book.author }}{% if book.additionalAuthors %} ({{
+              book.additionalAuthors
+            }}){% endif %}
+          </p>
+          <p class="bookshelf-book-rating">Rating: {{ book.myRating }} / 5</p>
           <p class="bookshelf-book-read-date">
-            {{book.readDates[0]}}-{{book.readDates[1]}}
+            {{ book.readDates[0] }}-{{ book.readDates[1] }}
           </p>
         </div>
       </li>
