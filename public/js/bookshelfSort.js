@@ -2,11 +2,8 @@ function bookshelfSort() {
   console.log("in bookshelfsort");
   const list = document.getElementById("bookshelf-list");
   if (!list) return;
-  console.log(list)
 
   const books = Array.from(list.getElementsByClassName("bookshelf-book"));
-console.log(books);
-
 
   const toDate = (dmy) => {
     if (!dmy) return new Date(0);
@@ -18,7 +15,7 @@ console.log(books);
     books.sort((a, b) => {
       let va, vb;
       if (by === "rating") {
-        console.log(a, "a")
+        console.log(a, "a");
         va = Number(a.dataset.rating || 0);
         vb = Number(b.dataset.rating || 0);
       } else {
@@ -30,18 +27,18 @@ console.log(books);
     books.forEach((book) => list.appendChild(book));
   }
 
-  document.getElementById("sort-rating-asc")?.addEventListener("click", () =>
-    sortBooks("rating", "asc")
-  );
-  document.getElementById("sort-rating-desc")?.addEventListener("click", () =>
-    sortBooks("rating", "desc")
-  );
-  document.getElementById("sort-date-asc")?.addEventListener("click", () =>
-    sortBooks("date", "asc")
-  );
-  document.getElementById("sort-date-desc")?.addEventListener("click", () =>
-    sortBooks("date", "desc")
-  );
+  document
+    .getElementById("sort-rating-asc")
+    ?.addEventListener("click", () => sortBooks("rating", "asc"));
+  document
+    .getElementById("sort-rating-desc")
+    ?.addEventListener("click", () => sortBooks("rating", "desc"));
+  document
+    .getElementById("sort-date-asc")
+    ?.addEventListener("click", () => sortBooks("date", "asc"));
+  document
+    .getElementById("sort-date-desc")
+    ?.addEventListener("click", () => sortBooks("date", "desc"));
 }
 
 document.addEventListener("DOMContentLoaded", bookshelfSort);
