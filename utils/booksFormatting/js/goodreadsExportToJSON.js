@@ -1,7 +1,6 @@
 const fs = require("fs");
 const csv = require("csv-parse/sync");
 const { fetchBookCovers } = require("./coverFetch.js");
-
 //1: export goodreads csv from goodreads https://www.goodreads.com/review/import
 //2: enhance it with https://github.com/kevinsawicki/goodreads-export
 //3: place enhanced goodreads_library_export.csv in utils/booksFormatting/_data/
@@ -81,8 +80,23 @@ async function processBooks() {
   //adds covers
   const readBooksWithCovers = await fetchBookCovers(readBooks);
 
+  //this function sorts the books by most recently read
+  //you can change va and vb to a.myRating and b.myRating to sort by rating instead
+  //change the vb-va to va-vb to change from desc to asc 
+  const sortedreadBooksByDate = readBooksWithCovers.sort((a, b) => {
+    const toDate = (dmy) => {
+      if (!dmy) return new Date(0);
+      const [d, m, y] = dmy.split(".").map(Number);
+      return new Date(y, m - 1, d);
+    }
+    let va = toDate(a.readDates[1]) || "00.00.0000";
+    let vb = toDate(b.readDates[1]) || "00.00.0000";
+
+    return vb - va;
+  });
+
   const booksData = {
-    books: readBooksWithCovers,
+    books: sortedreadBooksByDate,
   };
 
   fs.writeFileSync(

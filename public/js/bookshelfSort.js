@@ -1,5 +1,4 @@
 function bookshelfSort() {
-  console.log("in bookshelfsort");
   const list = document.getElementById("bookshelf-list");
   if (!list) return;
 
@@ -56,3 +55,5 @@ function bookshelfSort() {
 }
 
 document.addEventListener("DOMContentLoaded", bookshelfSort);
+
+module.exports = { sortBooks };
