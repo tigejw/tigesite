@@ -1,6 +1,7 @@
 const fs = require("fs");
 const csv = require("csv-parse/sync");
 const { fetchBookCovers } = require("./coverFetch.js");
+
 //1: export goodreads csv from goodreads https://www.goodreads.com/review/import
 //2: enhance it with https://github.com/kevinsawicki/goodreads-export
 //3: place enhanced goodreads_library_export.csv in utils/booksFormatting/_data/
