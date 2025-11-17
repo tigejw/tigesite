@@ -1,5 +1,9 @@
 [
-  { "url": "/", "label": "Home" },
-  { "url": "/about/", "label": "About" },
-  { "url": "/media/", "label": "Media" }
+  { "url": "/", "label": "home" },
+  { "url": "/about/", "label": "about" },
+  { "url": "/media/books", "label": "books" },
+  { "url": "/media/games", "label": "games" },
+  { "url": "/media/films", "label": "films" },
+  { "url": "/media/shows", "label": "shows" },
+  { "url": "/media/music", "label": "music" }
 ]
