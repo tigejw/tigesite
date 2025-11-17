@@ -27,18 +27,32 @@ function bookshelfSort() {
     books.forEach((book) => list.appendChild(book));
   }
 
-  document
-    .getElementById("sort-rating-asc")
-    ?.addEventListener("click", () => sortBooks("rating", "asc"));
-  document
-    .getElementById("sort-rating-desc")
-    ?.addEventListener("click", () => sortBooks("rating", "desc"));
-  document
-    .getElementById("sort-date-asc")
-    ?.addEventListener("click", () => sortBooks("date", "asc"));
-  document
-    .getElementById("sort-date-desc")
-    ?.addEventListener("click", () => sortBooks("date", "desc"));
+  document.getElementById("sort-rating")?.addEventListener("click", () => {
+    const btn = document.getElementById("sort-rating");
+    const by = btn.dataset.dir;
+    if (by === "asc") {
+      sortBooks("rating", "asc");
+      btn.dataset.dir = "desc";
+      btn.textContent = "rating ↓";
+    } else {
+      sortBooks("rating", "desc");
+      btn.dataset.dir = "asc";
+      btn.textContent = "rating ↑";
+    }
+  });
+  document.getElementById("sort-date")?.addEventListener("click", () => {
+    const btn = document.getElementById("sort-date");
+    const by = btn.dataset.dir;
+    if (by === "asc") {
+      sortBooks("date", "asc");
+      btn.dataset.dir = "desc";
+      btn.textContent = "date read ↓";
+    } else {
+      sortBooks("date", "desc");
+      btn.dataset.dir = "asc";
+      btn.textContent = "date read ↑";
+    }
+  });
 }
 
 document.addEventListener("DOMContentLoaded", bookshelfSort);

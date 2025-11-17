@@ -1,71 +1,27 @@
-.bookshelf-container {
-  box-sizing: border-box;
-  display: block;
-  border: 1px solid #ccc;
-  height: 40vh;
-  overflow-y: auto;
-  width: 60%;
-}
+@import "css/books/bookshelf";
 
-.bookshelf-list {
-  list-style-type: none;
+.currently-reading-container {
   display: flex;
-  flex-direction: column;
-  padding: 0 5px;
-}
-
-.bookshelf-book {
   box-sizing: border-box;
-  display: grid;
-  grid-template:
-    "cover book-info" /
-    auto 1fr;
-  margin: 5px 0;
-}
-.bookshelf-book-cover {
-  grid-area: cover;
-  height: 100px;
-  width: 62px;
-}
-
-.bookshelf-book-info {
-  grid-area: book-info;
-  display: flex;
   flex-direction: column;
-  overflow: hidden;
+  align-items: flex-start;
+  border: 1px solid #000000;
+  width: 180px;
 }
-
-.bookshelf-book-title {
-  margin: 0 0 0 3px;
-  box-sizing: border-box;
-  font-size: 1.2rem;
+.currently-reading-label{
+    font-size: 1rem;
+    margin: 0;
+}
+.currently-reading-cover {
+  height: 150px;
+  margin: 0;
+}
+.currently-reading-title {
+  font-size: 1.5rem;
   font-weight: bold;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  margin: 0;
 }
-
-.bookshelf-book-author {
-  box-sizing: border-box;
-  margin: 0 0 0 3px;
-  max-height: 20px;
-  width: fit-content;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.bookshelf-book-rating {
-  margin: 0 0 0 3px;
-  box-sizing: border-box;
-}
-
-.bookshelf-book-read-date {
-  box-sizing: border-box;
-  margin: 0 0 0 3px;
-  font-size: 1rem;
-}
-
-.bookshelf-book:not(:last-child) {
-  padding-bottom: 9px;
-  border-bottom: 1px solid #000000;
+.currently-reading-author {
+  font-size: 1.2rem;
+  margin: 0;
 }

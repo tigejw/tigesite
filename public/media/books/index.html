@@ -60,24 +60,24 @@
   <p>all the info on books i read or love</p>
 
   <div class="currently-reading-container">
-    <h2>Currently reading</h2>
+    <p class="currently-reading-label">i am currently reading:</p>
     <img
+      class="currently-reading-cover"
       src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327977046l/12972560._SX50_.jpg"
       alt="Cover of Anomaly"
     />
-    <h3>Anomaly</h3>
-    <p>Cawdron, Peter</p>
+    <h3 class="currently-reading-title">Anomaly</h3>
+    <p class="currently-reading-author">Cawdron, Peter</p>
   </div>
 
   <br />
 
   <div class="bookshelf-container">
     <div class="bookshelf-sort-controls">
-      <button id="sort-rating-asc">rating n</button>
-      <button id="sort-rating-desc">rating u</button>
-      <button id="sort-date-asc">date read n</button>
-      <button id="sort-date-desc">date read u</button>
+      <button id="sort-rating" data-dir="desc">rating ↓</button>
+      <button id="sort-date" data-dir="desc">date read ↓</button>
     </div>
+
     <ul class="bookshelf-list" id="bookshelf-list">
       
       <li
