@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "title": "20000 Leagues Under the Sea",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg",
+      "author": "Jules Verne",
+      "year": 1870,
+      "rating": 4,
+      "review": "yeah i thought it was pretty good i read it because xyz",
+      "dateStarted": "01-01-2024",
+      "dateFinished": "08-01-2024"
+    },
+    {
+      "title": "Moby Dick",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg",
+      "author": "Herman Melville",
+      "year": 1851,
+      "rating": 3,
+      "review": "this book is very gay",
+      "dateStarted": "21-02-2024",
+      "dateFinished": "04-03-2024"
+    },
+    {
+      "title": "The Time Machine",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg",
+      "author": "H.G. Wells",
+      "year": 1895,
+      "rating": 3,
+      "review": "this is pretty wild",
+      "dateStarted": "02-01-2024",
+      "dateFinished": "03-01-2024"
+    },
+    {
+      "title": "The War of the Worlds",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg",
+      "author": "H.G. Wells",
+      "year": 1898,
+      "rating": 4,
+      "review": "an interesting read about alien invasion",
+      "dateStarted": "10-03-2024",
+      "dateFinished": "15-03-2024"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg",
+      "author": "Jane Austen",
+      "year": 1813,
+      "rating": 5,
+      "review": "a timeless classic with wit and romance",
+      "dateStarted": "20-04-2024",
+      "dateFinished": "30-04-2024"
+    },
+    {
+      "title": "1984",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324740102l/834333._SY75_.jpg",
+      "author": "George Orwell",
+      "year": 1949,
+      "rating": 5,
+      "review": "a chilling dystopian novel that feels relevant",
+      "dateStarted": "05-05-2024",
+      "dateFinished": "15-05-2024"
+    }
+  ]
+}

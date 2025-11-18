@@ -2,7 +2,7 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.setQuietMode(true);
   eleventyConfig.addGlobalData("permalink", "{{ page.filePathStem }}.html");
-  eleventyConfig.addPassthroughCopy("content/assets");
+  eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.setTemplateFormats([
     "html",
     "njk",

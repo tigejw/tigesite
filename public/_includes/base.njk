@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta content="My personal website!" name="description" />
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="/main.css" />
+    <script src="/main.js"></script>
+  </head>
+  <body class="{{ bodyClass }}">
+    <div class="container">
+      {% include "header.njk" %} {% include "sidebar.njk" %}
+      <main>
+        {{ content | safe }}
+      </main>
+    </div>
+    <footer>Footer</footer>
+  </body>
+</html>

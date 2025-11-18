@@ -1,0 +1,27 @@
+@import "css/books/bookshelf";
+
+.currently-reading-container {
+  display: flex;
+  box-sizing: border-box;
+  flex-direction: column;
+  align-items: flex-start;
+  border: 1px solid #000000;
+  width: 180px;
+}
+.currently-reading-label{
+    font-size: 1rem;
+    margin: 0;
+}
+.currently-reading-cover {
+  height: 150px;
+  margin: 0;
+}
+.currently-reading-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0;
+}
+.currently-reading-author {
+  font-size: 1.2rem;
+  margin: 0;
+}
